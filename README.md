@@ -6,7 +6,7 @@ My purpose of creating this repository:
 
 2.  Rather than going to an accounting institutes, I prefer creating the simulation because of not only the goal of learning CFA but also the goal of being familiar with python and git-hub.
 
-The Description of #theAccountingGame:
+The Description of theAccountingGame:
 
 1.  To Learn the Financial Reporting and Analysis by simulating the reality in the game.  
 
